@@ -33,3 +33,6 @@ routine.pre_filter_day_backup(mins, filepath, backup_path)
     """
 ```
 
+### remark
+- custom_routine can add customized funtion
+
